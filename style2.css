@@ -1,0 +1,14 @@
+#intro {
+
+
+    display: flex;
+    flex-direction: column;
+    background-image: url("scott-webb-hDyO6rr3kqk-unsplash.jpg");
+    background-position: top 50% right 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+
+    height: 600px;
+
+}
